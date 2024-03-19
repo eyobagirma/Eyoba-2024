@@ -1,2 +1,4 @@
 hello hello.
 the demo for multiple change.
+learing is good.
+Bye bye git
