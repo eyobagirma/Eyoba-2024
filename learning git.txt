@@ -1,1 +1,2 @@
 It is fun to learn git from the pro.
+Fantastic!
